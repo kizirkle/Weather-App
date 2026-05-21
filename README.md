@@ -42,7 +42,7 @@ There are no tests available for this app.
 ## Link
 
 Here is the link to the deployed version of this app:
-https://ruckusenjoyer.github.io/Weather-App/
+https://kizirkle.github.io/Weather-App/
     
 ## Questions
 
